@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 
-gem "middleman", "~> 3.3.6"
+gem "middleman", "~> 3.3.7"
 
 # Live-reloading plugin
-gem "middleman-livereload", "~> 3.1.0"
+gem "middleman-livereload", "~> 3.1.1"
 
 # Autoprefixer plugin
 gem "middleman-autoprefixer"
